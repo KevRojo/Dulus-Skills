@@ -1,9 +1,0 @@
-{
-  "name": "dulus-autoadapter",
-  "description": "Adapt any Python repository into native agent tools, the Dulus way — AI-written per-function wrappers with a real-adaptation gate that refuses generic scaffolds.",
-  "version": "0.1.0",
-  "author": {
-    "name": "KevRojo"
-  },
-  "homepage": "https://github.com/KevRojo/Dulus-Skills"
-}
