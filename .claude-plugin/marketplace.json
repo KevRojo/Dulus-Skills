@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dulus-skills",
+  "description": "Agentic skills & plugins from Dulus — the multi-provider AI agent harness. Named after the bird, not the rocket.",
+  "owner": {
+    "name": "KevRojo"
+  },
+  "plugins": [
+    {
+      "name": "dulus-autoadapter",
+      "description": "Turn ANY Python repo into native agent tools. An LLM reads the library and writes real per-function tool wrappers — a verification gate fails any wrapper that doesn't actually call the library, so you never ship a generic scaffold. Demo: adapts yfinance in under 30s.",
+      "author": {
+        "name": "KevRojo"
+      },
+      "category": "development",
+      "source": "./plugins/dulus-autoadapter",
+      "homepage": "https://github.com/KevRojo/Dulus-Skills"
+    }
+  ]
+}
