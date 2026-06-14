@@ -1,0 +1,34 @@
+{
+  "name": "dulus-skills",
+  "owner": {
+    "name": "KevRojo",
+    "url": "https://github.com/KevRojo"
+  },
+  "description": "Agentic skills and plugins from the Dulus project (the Cigua Palmera 🦅). Real engines, not text prompts — starting with the AutoAdapter that turns any Python repo or MCP server into a working native plugin.",
+  "homepage": "https://github.com/KevRojo/Dulus-Skills",
+  "repository": "https://github.com/KevRojo/Dulus-Skills",
+  "metadata": {
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "autoadapter",
+      "source": "./autoadapter",
+      "description": "Turn any Python repo, package, or MCP server into a working native Dulus plugin with one command — powered by the real Dulus AutoAdapter engine (AI generation + real-export verification, not a scaffold).",
+      "version": "0.1.0",
+      "author": {
+        "name": "KevRojo"
+      },
+      "keywords": [
+        "autoadapter",
+        "dulus",
+        "plugin-generator",
+        "code-adaptation",
+        "mcp",
+        "python",
+        "integration"
+      ],
+      "category": "development"
+    }
+  ]
+}

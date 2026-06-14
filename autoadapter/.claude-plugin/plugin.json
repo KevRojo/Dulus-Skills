@@ -1,0 +1,25 @@
+{
+  "name": "autoadapter",
+  "displayName": "Dulus AutoAdapter",
+  "version": "0.1.0",
+  "description": "Turn any Python repo, package, or MCP server into a working native Dulus plugin with one command. Bridges to the REAL Dulus AutoAdapter engine (AI-driven generation + real-export verification, not a scaffold) — no manifests, no glue code. Powered by Dulus.",
+  "author": {
+    "name": "KevRojo",
+    "url": "https://github.com/KevRojo"
+  },
+  "homepage": "https://github.com/KevRojo/Dulus-Skills/tree/main/autoadapter",
+  "repository": "https://github.com/KevRojo/Dulus-Skills",
+  "license": "MIT",
+  "keywords": [
+    "autoadapter",
+    "dulus",
+    "plugin-generator",
+    "code-adaptation",
+    "mcp",
+    "python",
+    "agent-tools",
+    "integration",
+    "wrapper",
+    "automation"
+  ]
+}
